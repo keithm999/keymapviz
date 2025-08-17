@@ -18,6 +18,7 @@ Following keyboards are supported.
 - [helix](https://github.com/qmk/qmk_firmware/tree/master/keyboards/helix)
 - [id75](https://github.com/qmk/qmk_firmware/tree/master/keyboards/idobao/id75)
 - [kaishi65](https://github.com/qmk/qmk_firmware/tree/master/keyboards/kbdclack/kaishi65)
+- keychron k17 max
 - [kinesis](https://github.com/qmk/qmk_firmware/tree/master/keyboards/kinesis)
 - [kyria](https://github.com/qmk/qmk_firmware/tree/master/keyboards/splitkb/kyria)
 - [lets_split](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split)
