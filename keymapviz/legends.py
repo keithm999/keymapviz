@@ -21,6 +21,7 @@ legends = {
     'LCTL(KC_G)': 'Ctrl-G',
     'LSFT(KC_SPACE)': 'Sft-SPC',
 
+    'ESC_CTRL': 'ESC',
     'SSHOT': 'S/Shot',
     'OSL(MACRO)': 'MACRO',
     'TAB_TAP_HOLD': 'TAB',
@@ -33,6 +34,9 @@ legends = {
     'KC_PSLS': '/',
     'KC_PAST': '*',
     'KC_PMNS': '-',
+    'KC_SCLN': ';',
+    'KC_QUOT': '\'',
+    'KC_NUHS': '#',
 }
 
 def read_config(config_file_path):
