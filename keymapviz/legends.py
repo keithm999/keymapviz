@@ -12,6 +12,7 @@ legends = {
     'LCTL(KC_V)': 'PASTE',
     'LCTL(KC_X)': 'CUT',
     'KC_PSCREEN': 'PSc',
+    'KC_GRV': '`',
 
     'MO(LOWER)': 'LOWER',
     'MO(RAISE)': 'RAISE',
@@ -23,6 +24,11 @@ legends = {
     'SSHOT': 'S/Shot',
     'OSL(MACRO)': 'MACRO',
 
+    'KC_MINS': '-',
+    'KC_EQL': '=',
+    'KC_PSLS': '/',
+    'KC_PAST': '*',
+    'KC_PMNS': '-',
 }
 
 def read_config(config_file_path):
