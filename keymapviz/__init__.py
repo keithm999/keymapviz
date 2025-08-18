@@ -17,6 +17,7 @@ import keymapviz.keyboards.kinesis
 import keymapviz.keyboards.helix
 import keymapviz.keyboards.mint60
 import keymapviz.keyboards.kaishi65
+import keymapviz.keyboards.keychron_k17max
 import keymapviz.keyboards.kyria
 import keymapviz.keyboards.lily58
 import keymapviz.keyboards.sweet16
@@ -43,6 +44,7 @@ KEYBOARDS = {
     'lily58': keymapviz.keyboards.lily58,
     'mint60': keymapviz.keyboards.mint60,
     'kaishi65': keymapviz.keyboards.kaishi65,
+    'keychron_k17max': keymapviz.keyboards.keychron_k17max,
     'kyria': keymapviz.keyboards.kyria,
     'sweet16': keymapviz.keyboards.sweet16,
     'dactyl_manuform5x6': keymapviz.keyboards.dactyl_manuform5x6,
