@@ -2,7 +2,7 @@
 
 keymap_keyword = '(?:LAYOUT_105_iso)'
 layout_editor_json = {
-  'default': 'keyboards/keychron/layout_editor/default.json'
+  'default': 'keyboards/keychron_k17max/layout_editor/default.json'
 }
 
 ascii_art = {
