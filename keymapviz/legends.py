@@ -23,9 +23,13 @@ legends = {
 
     'SSHOT': 'S/Shot',
     'OSL(MACRO)': 'MACRO',
+    'TAB_TAP_HOLD': 'TAB',
 
     'KC_MINS': '-',
     'KC_EQL': '=',
+    'KC_LBRC': '[',
+    'KC_RBRC': ']',
+    'KC_PPLS': '+',
     'KC_PSLS': '/',
     'KC_PAST': '*',
     'KC_PMNS': '-',
