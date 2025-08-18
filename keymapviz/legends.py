@@ -19,6 +19,10 @@ legends = {
     'LALT(KC_TAB)': 'ALT-TAB',
     'LCTL(KC_G)': 'Ctrl-G',
     'LSFT(KC_SPACE)': 'Sft-SPC',
+
+    'SSHOT': 'S/Shot',
+    'OSL(MACRO)': 'MACRO',
+
 }
 
 def read_config(config_file_path):
